@@ -1,0 +1,73 @@
+/* =========================
+   Pallete 
+   ========================= */
+
+.theme-dark {
+	--background-primary: #11111b;
+	--background-secondary: #181825;
+
+	--text-normal: #dce0e8;
+	--text-muted: #dce0e8;
+
+	--interactive-accent: #b4befe;
+
+	--link-color: #89b4fa;
+	--tag-color: #f9e2af;
+}
+
+/* =========================
+   Editor 
+   ========================= */
+
+.markdown-preview-view h1 {
+	color: #c6d0f5;
+}
+
+.markdown-preview-view h2 {
+	color: #c6d0f5;
+}
+
+.markdown-preview-view h3 {
+	color: #c6d0f5;
+}
+
+.markdown-preview-view h4 {
+	color: #c6d0f5;
+}
+
+.markdown-preview-view h5 {
+	color: #c6d0f5;
+}
+
+.markdown-preview-view h6 {
+	color: #c6d0f5;
+}
+/* =========================
+   Links 
+   ========================= */
+
+a {
+	color: #89b4fa;
+}
+
+a:hover {
+	color: #89b4fa;
+}
+
+/* =========================
+   Code 
+   ========================= */
+
+code {
+	color: #4c4f69;
+	background: #11111b;
+}
+
+/* =========================
+   Tags 
+   ========================= */
+
+.tag {
+	color: #cba6f7;
+	background: #313244;
+}
